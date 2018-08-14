@@ -40,5 +40,5 @@
     "karma-phantomjs-launcher": "*",
     "karma-chrome-launcher": "*"
   },
-  "types": "./types/bootstrap-multiselect/index.d.ts"
+  "types": "types/bootstrap-multiselect/index.d.ts"
 }
