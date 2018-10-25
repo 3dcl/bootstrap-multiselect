@@ -3,6 +3,7 @@
   "version": "0.10.0",
   "description": "JQuery multiselect plugin based on Twitter Bootstrap.",
   "browser": "dist/js/bootstrap-multiselect.js",
+  "main": "dist/js/bootstrap-multiselect.js",
   "directories": {
     "doc": "docs",
     "test": "tests"
